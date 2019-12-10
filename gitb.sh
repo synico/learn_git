@@ -2,7 +2,6 @@
 
 ####
 ####
-ZZZZ
 echo "input:" $1 $2 "$3"
 optionstr="$1"
 if [ -n "$2" ];
